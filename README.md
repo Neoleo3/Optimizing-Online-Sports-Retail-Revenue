@@ -25,3 +25,17 @@ Count the number of reviews per brand per month.
 Create the footwear CTE, then calculate the number of products and average revenue from these items.
 
 Copy the code used to create footwear then use a filter to return only products that are not in the CTE.
+
+## CONCLUSION
+
+The brand needs to explore opportunities to develop products in the “Expensive” and “Elite” categories that have higher revenue potential.
+
+Focusing on product quality, customer service, and holistic marketing strategies can help improve reviews and revenue.
+
+Analyzing factors that influence monthly review fluctuations and planning appropriate marketing strategies.
+
+Continuously monitoring product categories like footwear and clothing and making relevant price adjustments or marketing strategies.
+
+Using this data as a foundation to design more effective and customer-oriented business strategies.
+
+All of these recommendations can assist the brand in enhancing product performance, increasing revenue, and providing a better experience to customers.
