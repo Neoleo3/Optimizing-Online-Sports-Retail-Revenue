@@ -1,4 +1,4 @@
-# Optimizing-Online-Sports-Retail-Revenue
+# Optimizing Online Sports Retail Revenue
 ## Project Description
 Sports clothing is a booming sector!
 
